@@ -11,3 +11,4 @@ no errors when using own repo
 Now pushing from another local
 
 From the desktop
+pulling from git
